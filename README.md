@@ -1,11 +1,5 @@
 # GSoC'21 @CASTOR FINAL REPORT
 
-<p align="center">
-  <img src="https://github.com/ABHAY0O7/GSoC-21-CASTOR/blob/main/Images/creation.jpg" alt="Summer-creation"/><br>
-  During this summer I thought that I am one of the character of this famous cartoon who is working on some cool\
-  things with my friends. I will never forget this period of my life.:wink:<br> 
-</p>
-
 ## General Information
 <b>Organization:</b> [CASTOR](https://github.com/castor-software) <br>
 <b>Project:</b> [DEPCLEAN](https://github.com/castor-software/depclean) <br>
@@ -25,4 +19,18 @@ projects but are not used in the code. It detects and removes all the unused dep
 of the project or imported from its parent pom.xml. This tool can only be used in maven-based java project only.
 For more information [visit here](https://github.com/castor-software/depclean#readme)
 
+## Goals
+- Previously depclean was confined only to maven-based java project, but due to increasing popularity of Gradle, 
+  the project requires a feature so that depclean could be used on gradle-based java projects too. So, my main goal
+  for the project was to implement a depclean-gradle plugin so that the tool depclean could analyze gradle projects.
+- Secondly, the existing depclean maven plugin was failing on the multi-module maven project i.e. the plugin was not
+  providing the correct output when there are dependent modules inside a multi-module maven project. So my second goal
+  was to fix this bug.
+- My third and the last goal was to implement some new tests for the depclean-core and depclean maven plugin.
 
+
+<p align="center">
+  <img src="https://github.com/ABHAY0O7/GSoC-21-CASTOR/blob/main/Images/creation.jpg" alt="Summer-creation"/><br>
+  During this summer I thought that I am one of the character of this famous cartoon who is working on some cool\
+  things with my friends. I will never forget this period of my life.:wink:<br> 
+</p>
