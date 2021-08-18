@@ -2,7 +2,8 @@
 
 <p align="center">
   <img src="https://github.com/ABHAY0O7/GSoC-21-CASTOR/blob/main/Images/creation.jpg" alt="Summer-creation"/><br>
-  During this summer I thought that I am one of the character of this famous cartoon who is working on some cool things with my friends. I will never forget this period of my life.:wink:<br> 
+  During this summer I thought that I am one of the character of this famous cartoon who is working on some cool\
+  things with my friends. I will never forget this period of my life.:wink:<br> 
 </p>
 
 ## General Information
@@ -14,5 +15,14 @@
 3. Implementation of some new tests.
 
 <b>Student:</b> [Abhay Singh](https://github.com/ABHAY0O7) <br>
-<b>Mentors:</b> [Thomas Durieux](https://github.com/tdurieux), [César Soto Valero](https://github.com/cesarsotovalero) & [Benoit Baudry](https://github.com/bbaudry) <br>
+<b>Mentors:</b> [Thomas Durieux](https://github.com/tdurieux), [César Soto Valero](https://github.com/cesarsotovalero) 
+& [Benoit Baudry](https://github.com/bbaudry) <br>
 <b>My proposal: </b> [Click here](https://docs.google.com/document/d/1WG1kZ5bHKFLf2PCKPQdWQn2VSGbvdQBJ6eixddJMmNs/edit)
+
+## About project
+Project depclean is a tool to automatically remove dependencies that are included in the dependency tree of java
+projects but are not used in the code. It detects and removes all the unused dependencies declared in the pom.xml file
+of the project or imported from its parent pom.xml. This tool can only be used in maven-based java project only.
+For more information [visit here](https://github.com/castor-software/depclean#readme)
+
+
