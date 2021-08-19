@@ -13,13 +13,13 @@
 & [Benoit Baudry](https://github.com/bbaudry) <br>
 <b>My proposal: </b> [Click here](https://docs.google.com/document/d/1WG1kZ5bHKFLf2PCKPQdWQn2VSGbvdQBJ6eixddJMmNs/edit)
 
-## Abstract 💻 
+## Abstract :bookmark: 
 Project depclean is a tool to automatically remove dependencies that are included in the dependency tree of java
 projects but are not used in the code. It detects and removes all the unused dependencies declared in the pom.xml file
 of the project or imported from its parent pom.xml. This tool can only be used in maven-based java project only.
 For more information [visit here](https://github.com/castor-software/depclean#readme)
 
-## Goals 🎯
+## Goals :dart: 
 - Previously depclean was confined only to maven-based java project, but due to increasing popularity of Gradle, 
   the project requires a feature so that depclean could be used on gradle-based java projects too. So, my main goal
   for the project was to implement a depclean-gradle plugin so that the tool depclean could analyze gradle projects.
@@ -28,7 +28,7 @@ For more information [visit here](https://github.com/castor-software/depclean#re
   was to fix this bug.
 - My third and the last goal was to implement some new tests for the depclean-core and depclean maven plugin.
 
-## Results 💰
+## Results :rocket:
 Now the project depclean has a gradle plugin just like maven one, which can analyze and debloat out the unused 
 dependencies from a gradle-based java project too. It also has all the optional parameter which was present in depclean
 gradle maven-plugin. Also, I fixed the multi-module bug too i.e. now depclean-maven plugin will provide the correct
@@ -36,7 +36,7 @@ gradle maven-plugin. Also, I fixed the multi-module bug too i.e. now depclean-ma
 some new tests for the depclean core and all of my code that I have written during GSoC with proper documentation.
 Proud to say that, I have successfully achieved all of my goals that I offered to complete during the GSoC period. :tada:
 
-## Contributions at a glance :gift: 
+## Contributions :gift: 
 If I tell you in short then, upto now I contributed about (3804++  703--) line of code to project depclean out of which before GSoC my
 contributed code was of about (453++  109--) lines. It means during the GSoC period I provide a total of (3351++  594--)
 lines of code to project depclean.:thumbsup: 
@@ -44,9 +44,9 @@ lines of code to project depclean.:thumbsup:
 <img src = "https://github.com/ABHAY0O7/GSoC-21-CASTOR/blob/main/utils/Images/all-contribution.png" alt="Github contribution-snap"/>
 </p>
 
-Here is the list of PRs that I created during GSoC but if anyone wants to see only my all commits then he/she may visit [here](https://github.com/castor-software/depclean/commits?author=ABHAY0O7).
+Here is the list of PRs (both open & closed) that I created during GSoC but if anyone only wants to see all of my commits then he/she may visit [here](https://github.com/castor-software/depclean/commits?author=ABHAY0O7).
 
-| PULL REQUESTS                                               | COMMITS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | DESCRIPTION                                                                                                                                                        | STATUS                 |
+| PRs                                                         | COMMITS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | DESCRIPTION                                                                                                                                                        | STATUS                 |
 |:----------------------------------------------------------- |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------ |:-----------------------|
 | [#94](https://github.com/castor-software/depclean/pull/94)  | <ul> <li> [1deb166](1deb166d00a49c24a7bfdb1b9f088af372d941d6) </li> <li> [e9b0bf0](e9b0bf0ae562123bd0ccc4d4e839ef4671caab7e) </li> <li> [5874777](58747774d1bd20daac6d51a8623fa511867a7f27) </li> <li> [431e8b2](431e8b2b9b173d2eee8860d4a398099956056f59) </li> <li> [44f90ea](44f90ea50326a80cd307abbc5b87046d6bd46615) </li> </ul>                                                                                                                                                                                              | This PR marked the starting of the implementation of DepClean Gradle Plugin. It also covers the analysis part of the plugin which is required to collect all the dependencies from the project itself and then using them to get the used artifact of the project from depclean core. | SuccessfullyMerged :purple_square:  |
 | [#95](https://github.com/castor-software/depclean/pull/95)  | <ul> <li> [4c00060](4c00060c7c603b9f6e069986f743f3bb19972d54) </li> <li> [d8931c9](d8931c9284427dd0f76192d39d7fd7afa4c04804) </ul>                                                                                                                                                                                                                                                                                                                                                                                                 | This PR implements the abstract classes or methods which are must to build a gradle plugin like action and tasks classes. </li> </ul>                                                                                                                                                 | Merged :purple_square:  |
