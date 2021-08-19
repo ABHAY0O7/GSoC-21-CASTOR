@@ -34,12 +34,12 @@ dependencies from a gradle-based java project too. It also has all the optional 
 gradle maven-plugin. Also, I fixed the multi-module bug too i.e. now depclean-maven plugin will provide the correct
 (desired) results whenever it will encounter the dependent modules inside a multi-module project. In the end, I added
 some new tests for the depclean core and all of my code that I have written during GSoC with proper documentation.
-Proud to say that, I have successfully achieved all of my goals that I offered to complete during the GSoC period. 🎉
+Proud to say that, I have successfully achieved all of my goals that I offered to complete during the GSoC period. :tada:
 
-## Contributions at a glance 🤌 🎁
+## Contributions at a glance :gift: 
 
 
-## Contributions in detail (For those who wants to know more) 🤌🤌 🎁🎁
+## Contributions in detail (For those who wants to know more) :gift: :gift: 
 
 
 <p align="center">
