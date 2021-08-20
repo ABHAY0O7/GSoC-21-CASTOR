@@ -42,10 +42,14 @@ Here are some results of the tasks that I have completed during GSoC, you can tr
 - [Depclean Gradle plugin](https://github.com/ABHAY0O7/GSoC-21-CASTOR/tree/main/utils/gradle-plugin-result.md)
 - [Depclean Maven plugin with multi-module analysis feature](https://github.com/ABHAY0O7/GSoC-21-CASTOR/tree/main/utils/multi-module-result.md)
 
-## Contributions :gift: 
-If I tell you in short then, upto now I contributed about (3804++  703--) line of code to project depclean out of which before GSoC my
-contributed code was of about (453++  109--) lines. It means during the GSoC period I provide a total of (3351++  594--)
-lines of code to project depclean.:thumbsup: 
+## Contributions :gift:
+Here are some stats of my contributions to project DepClean during GSoC:
+
+- I made a total of 13 PRs during GSoC, out of which 11 got successfully merged and 2 got closed.
+- In those 11 successfully merged PRs, I made a total of 35 successfully commits during the program.
+- Overall upto now I had contributed about `4367++ 918--` lines of codes to this project out of which `3914++ 809--` 
+  lines of code has been written during the program.
+
 <p align="center">
 <a href = "https://github.com/castor-software/depclean/graphs/contributors"><img src = "https://github.com/ABHAY0O7/GSoC-21-CASTOR/blob/main/utils/Images/all-contribution.png" alt="Github contribution-snap"/></a>
 </p>
