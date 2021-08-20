@@ -35,6 +35,9 @@ gradle maven-plugin. Also, I fixed the multi-module bug too i.e. now depclean-ma
 (desired) results whenever it will encounter the dependent modules inside a multi-module project. In the end, I added
 some new tests for the depclean core and all of my code that I have written during GSoC with proper documentation.
 Proud to say that, I have successfully achieved all of my goals that I offered to complete during the GSoC period. :tada:
+Here are some results of the tasks that I have completed during GSoC, you can treat them as a working prototype. :wink: 
+- [Depclean Gradle plugin](https://github.com/ABHAY0O7/GSoC-21-CASTOR/tree/main/utils/gradle-plugin-result.md)
+- [Depclean Maven plugin with multi-module analysis feature](https://github.com/ABHAY0O7/GSoC-21-CASTOR/tree/main/utils/multi-module-result.md)
 
 ## Contributions :gift: 
 If I tell you in short then, upto now I contributed about (3804++  703--) line of code to project depclean out of which before GSoC my
@@ -75,4 +78,4 @@ reference. So, all of our formal (technical) discussion took place over GitHub. 
 - [Thread-1](https://github.com/castor-software/depclean/issues/92)
 - [Thread-2](https://github.com/castor-software/depclean/issues/91)
 
-
+### Future plans
