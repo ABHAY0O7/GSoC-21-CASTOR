@@ -1,5 +1,7 @@
 # GSoC'21 @CASTOR FINAL REPORT
-
+<div align="center">
+<img src="https://github.com/ABHAY0O7/GSoC-21-CASTOR/blob/main/utils/Images/Gsoc-image.png" alt="GSoC-logo">
+</div>
 ## General Information 📝
 <b>Organization:</b> [CASTOR](https://github.com/castor-software) <br>
 <b>Project:</b> [DEPCLEAN](https://github.com/castor-software/depclean) <br>
@@ -68,7 +70,7 @@ Here is the list of PRs (both open & closed) that I created during GSoC but if a
 - [#93](https://github.com/castor-software/depclean/pull/93) - This PR contains the complete implementation of depclean gradle plugin, but was closed due to messy git history, unnecessary commits and lack of commit information.
 
 ### List of issues on which I majorly worked upon during GSoC
-- [#67 - Depclean Gradle plugin](https://github.com/castor-software/depclean/issues/67) ![](https://github.com/primer/octicons/blob/main/icons/issue-opened-24.svg)
+- [#67 - Depclean Gradle plugin](https://github.com/castor-software/depclean/issues/67)
 - [#68 - Multi-Module support](https://github.com/castor-software/depclean/issues/68)
 - [#91 - Porting Maven tests to Gradle tests](https://github.com/castor-software/depclean/issues/91)
 
@@ -83,7 +85,8 @@ The last three months of my life were unforgettable. This time was very precious
 for my community. After GSoC, I would like to continue the same spirit of the contribution that I maintained during GSoC.
 I would like to get involved more in the community and will be happy to guide new developers as well. I will also like
 to work on some new projects from my organisation (if there are any). In the end, I will try my best to be helpful more
-and more to the community. :innocent:
+and more to the community. :innocent: If anyone wants any kind of help or wants to connect with me, then he/she is just
+[one click away](https://github.com/ABHAY0O7/ABHAY0O7/blob/main/README.md). 
 
 ## Key takeaways :brain: 
 There's a lot that I learned from GSoC, I mean what can be better than working on a community product which is used by
@@ -94,10 +97,20 @@ around 10k users. This is the list of my key takeaways from this program.
 - Get experienced in making Gradle & Maven plugins.
 - Learned about how to work in a team or with a broad community.
 
-## Acknowledgement
+## Acknowledgement :clap:
+On this ending note, I want to thank my mentors [Thomas Durieux](https://github.com/tdurieux), [César Soto Valero](https://github.com/cesarsotovalero) 
+& [Benoit Baudry](https://github.com/bbaudry) for constantly supporting me from the very beginning of my contributions.
+I am very thankful for their patience behaviour whenever I got stuck and their suggestions that helped me in resolving them.
+Also, I am thankful to the whole CASTOR family who provided me this wonderful opportunity of working on such a wonderful project.
+
+I would also like to thank my family and my friends who constantly supported and helped me throughout the program. 
+Special thanks to [Mitul varshney](https://github.com/Mitul16) for helping me out during my tough times of debugging.
+
+In the end I would like to thank Google for organising such a wonderful program and also kudos to me who successfully
+completed this program. :wink: I am ending this report via an image that I created on my own, and it describes my feelings of this summer.
 
 <p align="center">
   <img src="https://github.com/ABHAY0O7/GSoC-21-CASTOR/blob/main/utils/Images/creation.jpg" alt="Summer-creation"/><br>
-  During this summer I thought that I am one of the character of this famous cartoon who is working on some cool\
+  During this summer I thought that I am one of the character of this famous cartoon who is working on some cool
   things with my friends. I will never forget this period of my life.:wink:<br> 
 </p>
