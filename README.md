@@ -1,7 +1,8 @@
 # GSoC'21 @CASTOR FINAL REPORT
 <div align="center">
-<img src="https://github.com/ABHAY0O7/GSoC-21-CASTOR/blob/main/utils/Images/Gsoc-image.png" alt="GSoC-logo">
+<img src="https://github.com/ABHAY0O7/GSoC-21-CASTOR/blob/main/utils/Images/Gsoc-image.png" alt="GSoC-logo" height=300px width=600px>
 </div>
+
 ## General Information 📝
 <b>Organization:</b> [CASTOR](https://github.com/castor-software) <br>
 <b>Project:</b> [DEPCLEAN](https://github.com/castor-software/depclean) <br>
@@ -84,27 +85,27 @@ reference. So, all of our formal (technical) discussion took place over GitHub. 
 The last three months of my life were unforgettable. This time was very precious to me, and I hope that it was so too
 for my community. After GSoC, I would like to continue the same spirit of the contribution that I maintained during GSoC.
 I would like to get involved more in the community and will be happy to guide new developers as well. I will also like
-to work on some new projects from my organisation (if there are any). In the end, I will try my best to be helpful more
-and more to the community. :innocent: If anyone wants any kind of help or wants to connect with me, then he/she is just
-[one click away](https://github.com/ABHAY0O7/ABHAY0O7/blob/main/README.md). 
+to work on some new (if any) or existing projects from my organisation. In the end, I will try my best to be more 
+and more helpful to the community. :innocent: If anyone wants any kind of help or wants to connect with me, then he/she is just
+[two clicks away](https://github.com/ABHAY0O7/ABHAY0O7/blob/main/README.md). 
 
 ## Key takeaways :brain: 
 There's a lot that I learned from GSoC, I mean what can be better than working on a community product which is used by
 around 10k users. This is the list of my key takeaways from this program.
 - Got experience of working on a community product.
 - Learned lots of new things in Java, and also learned some new concepts in OOPS.
-- Learned lots of new things about project management tools Gradle and Maven and also learned about dependency management.
-- Get experienced in making Gradle & Maven plugins.
-- Learned about how to work in a team or with a broad community.
+- Learned lots of new things about project management tools like Gradle and Maven and also learned about dependency management.
+- Got experienced in developing Gradle & Maven plugins.
+- Learned about how to work in a team or with a broad community on a single or more projects.
 
 ## Acknowledgement :clap:
 On this ending note, I want to thank my mentors [Thomas Durieux](https://github.com/tdurieux), [César Soto Valero](https://github.com/cesarsotovalero) 
 & [Benoit Baudry](https://github.com/bbaudry) for constantly supporting me from the very beginning of my contributions.
 I am very thankful for their patience behaviour whenever I got stuck and their suggestions that helped me in resolving them.
-Also, I am thankful to the whole CASTOR family who provided me this wonderful opportunity of working on such a wonderful project.
+Also, I am thankful to the whole CASTOR family who provided me this wonderful opportunity of working on such an amazing project.
 
 I would also like to thank my family and my friends who constantly supported and helped me throughout the program. 
-Special thanks to [Mitul varshney](https://github.com/Mitul16) for helping me out during my tough times of debugging.
+Special thanks to [Mitul varshney](https://github.com/Mitul16) for helping me out during my tough times of debugging. :heart: 
 
 In the end I would like to thank Google for organising such a wonderful program and also kudos to me who successfully
 completed this program. :wink: I am ending this report via an image that I created on my own, and it describes my feelings of this summer.
@@ -112,5 +113,6 @@ completed this program. :wink: I am ending this report via an image that I creat
 <p align="center">
   <img src="https://github.com/ABHAY0O7/GSoC-21-CASTOR/blob/main/utils/Images/creation.jpg" alt="Summer-creation"/><br>
   During this summer I thought that I am one of the character of this famous cartoon who is working on some cool
-  things with my friends. I will never forget this period of my life.:wink:<br> 
+  things with his friends. I will never forget this period of my life.:wink:<br> 
+  <h2 align = "center"> PS: Thanks for your precious time. 👋</h2>
 </p>
