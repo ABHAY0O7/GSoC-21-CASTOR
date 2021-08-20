@@ -1,7 +1,6 @@
-<div align="center">
-<h3>When depclean gradle plugin was run on the depclean gradle plugin module itself, then this was its output</h3>
-</div>
-```java
+## When depclean gradle plugin was run on the depclean gradle plugin module itself, then this was its output</h3>
+
+``` java
 Starting DepClean dependency analysis
 -------------------------------------------------------
  D E P C L E A N   A N A L Y S I S   R E S U L T S

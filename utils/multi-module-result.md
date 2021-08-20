@@ -1,4 +1,4 @@
-##>These are the result of depclean analysis on a demo project without the multi-module analysis feature.
+## These are the result of depclean analysis on a demo project without the multi-module analysis feature.
 
 ``` java
 

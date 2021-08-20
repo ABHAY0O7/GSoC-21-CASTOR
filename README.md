@@ -72,10 +72,11 @@ Here is the list of PRs (both open & closed) that I created during GSoC but if a
 - [#68 - Multi-Module support](https://github.com/castor-software/depclean/issues/68)
 - [#91 - Porting Maven tests to Gradle tests](https://github.com/castor-software/depclean/issues/91)
 
-### Communication (Chat)
+## Communication (Chat) :speaking_head: 
 In our very first virtual meet, we decided to keep all our technical discussion to be open to all for future 
 reference. So, all of our formal (technical) discussion took place over GitHub. Here are the required threads links
 - [Thread-1](https://github.com/castor-software/depclean/issues/92)
 - [Thread-2](https://github.com/castor-software/depclean/issues/91)
 
-### Future plans
+## Future plans :timer:
+
