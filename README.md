@@ -19,20 +19,20 @@
 ## Abstract :scroll: 
 This summer, I was selected for GSoC to work on project DepClean for [CASTOR organization](https://github.com/castor-software).
 CASTOR is a research software center at [KTH Royal institiute](https://www.kth.se/en) :classical_building: . It performs lots of cool stuffs like
-developing software tools, perform excellent research, train world class Graduates and a lot more. One of the best software tool
+developing software tools, perform excellent research, train world class Graduates and a lot more. One of the best software tools
 which is provided by CASTOR is depclean. It is a tool to automatically remove dependencies that are included in the dependency
 tree of java projects but are not used in the code. It detects and removes all the unused dependencies declared in the pom.xml
-file of the project or imported from its parent pom.xml. This tool can only be used in maven-based java project only.
+file of the project or imported from its parent pom.xml. This tool can only be used in maven-based java projects.
 For more information [visit here](https://github.com/castor-software/depclean#readme)
 
 ## Goals :dart: 
-- Previously depclean was confined only to maven-based java project, but due to increasing popularity of Gradle, 
+- Previously depclean was confined only to maven-based java projects, but due to the increasing popularity of Gradle, 
   the project requires a feature so that depclean could be used on gradle-based java projects too. So, my main goal
-  for the project was to implement a depclean-gradle plugin so that the tool depclean could analyze gradle projects.
+  for the project was to implement a depclean-gradle plugin so that the tool depclean could analyze Gradle projects.
 - Secondly, the existing depclean maven plugin was failing on the multi-module maven project i.e. the plugin was not
   providing the correct output when there are dependent modules inside a multi-module maven project. So my second goal
   was to fix this bug.
-- My third and the last goal was to implement some new tests for the depclean-core and depclean maven plugin.
+- My third and last goal was to implement some new tests for the depclean-core and depclean maven plugin.
 
 ## Results :rocket:
 Now the project depclean has a gradle plugin just like maven one, which can analyze and debloat out the unused 
@@ -40,7 +40,7 @@ dependencies from a gradle-based java project too. It also has all the optional 
 gradle maven-plugin. Also, I fixed the multi-module bug too i.e. now depclean-maven plugin will provide the correct
 (desired) results whenever it will encounter the dependent modules inside a multi-module project. In the end, I added
 some new tests for the depclean core and all of my code that I have written during GSoC with proper documentation.
-Proud to say that, I have successfully achieved all of my goals that I offered to complete during the GSoC period. :tada:
+Proud to say that, I have successfully achieved my goals that I planned to do during the GSoC period. :tada:
 Here are some results of the tasks that I have completed during GSoC, you can treat them as a working prototype. :wink: 
 - [Depclean Gradle plugin](https://github.com/ABHAY0O7/GSoC-21-CASTOR/tree/main/utils/gradle-plugin-result.md)
 - [Depclean Maven plugin with multi-module analysis feature](https://github.com/ABHAY0O7/GSoC-21-CASTOR/tree/main/utils/multi-module-result.md)
@@ -49,9 +49,9 @@ Here are some results of the tasks that I have completed during GSoC, you can tr
 Here are some stats of my contributions to project DepClean during GSoC:
 
 - I made a total of 13 PRs during GSoC, out of which 11 got successfully merged and 2 got closed.
-- In those 11 successfully merged PRs, I made a total of 35 successfully commits during the program.
-- Overall upto now I had contributed about `4367++ 918--` lines of codes to this project out of which `3914++ 809--` 
-  lines of code has been written during the program.
+- In those 11 successfully merged PRs, I made a total of 35 commits during the program.
+- Overall up to now I had contributed with `4367++ 918--` lines of codes to this project out of which `3914++ 809--` 
+  lines of code have been written during the program.
 
 <p align="center">
 <a href = "https://github.com/castor-software/depclean/graphs/contributors"><img src = "https://github.com/ABHAY0O7/GSoC-21-CASTOR/blob/main/utils/Images/all-contribution.png" alt="Github contribution-snap"/></a>
@@ -83,8 +83,8 @@ Here is the list of PRs (both open & closed) that I created during GSoC but if a
 - [#91 - Porting Maven tests to Gradle tests](https://github.com/castor-software/depclean/issues/91)
 
 ## Communication (Chat) :speaking_head: 
-In our very first virtual meet, we decided to keep all our technical discussion to be open to all for future 
-reference. So, all of our formal (technical) discussion took place over GitHub. Here are the required threads links
+In our very first virtual meet, we decided to keep all our technical discussions to be open to all for future 
+references. So, all of our formal (technical) discussion took place over GitHub. Here are the required threads links
 - [Thread-1](https://github.com/castor-software/depclean/issues/92)
 - [Thread-2](https://github.com/castor-software/depclean/issues/91)
 
@@ -92,29 +92,29 @@ reference. So, all of our formal (technical) discussion took place over GitHub. 
 The last three months of my life were unforgettable. This time was very precious to me, and I hope that it was so too
 for my community. After GSoC, I would like to continue the same spirit of the contribution that I maintained during GSoC.
 I would like to get involved more in the community and will be happy to guide new developers as well. I will also like
-to work on some new (if any) or existing projects from my organisation. In the end, I will try my best to be more 
+to work on some new (if any) or existing projects from my organization. In the end, I will try my best to be more 
 and more helpful to the community. :innocent: If anyone wants any kind of help or wants to connect with me, then he/she is just
 [two clicks away](https://github.com/ABHAY0O7/ABHAY0O7/blob/main/README.md). 
 
 ## Key takeaways :brain: 
-There's a lot that I learned from GSoC, I mean what can be better than working on a community product which is used by
+There's a lot that I learned from GSoC, I mean what can be better than working on a community product that is used by
 around 10k users. This is the list of my key takeaways from this program.
 - Got experience of working on a community product.
 - Learned lots of new things in Java, and also learned some new concepts in OOPS.
 - Learned lots of new things about project management tools like Gradle and Maven and also learned about dependency management.
-- Got experienced in developing Gradle & Maven plugins.
-- Learned about how to work in a team or with a broad community on a single or more projects.
+- Got experienced developing Gradle & Maven plugins.
+- Learned about how to work in a team or with a broad community on single or multiple projects.
 
 ## Acknowledgement :clap:
 On this ending note, I want to thank my mentors [Thomas Durieux](https://github.com/tdurieux), [César Soto Valero](https://github.com/cesarsotovalero) 
 & [Benoit Baudry](https://github.com/bbaudry) for constantly supporting me from the very beginning of my contributions.
-I am very thankful for their patience behaviour whenever I got stuck and their suggestions that helped me in resolving them.
+I am very thankful for their patient behavior whenever I got stuck and their suggestions that helped me in resolving them.
 Also, I am thankful to the whole CASTOR family who provided me this wonderful opportunity of working on such an amazing project.
 
 I would also like to thank my family and my friends who constantly supported and helped me throughout the program. 
 Special thanks to [Mitul varshney](https://github.com/Mitul16) for helping me out during my tough times of debugging. :heart: 
 
-In the end I would like to thank Google for organising such a wonderful program and also kudos to me who successfully
+In the end, I would like to thank Google for organizing such a wonderful program and also kudos to me who successfully
 completed this program. :wink: I am ending this report via an image that I created on my own, and it describes my feelings of this summer. <br>
 
 <p align="center">
