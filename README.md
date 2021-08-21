@@ -1,6 +1,6 @@
 # GSoC'21 @CASTOR FINAL REPORT
 <div align="center">
-<img src="https://github.com/ABHAY0O7/GSoC-21-CASTOR/blob/main/utils/Images/header-image.png" alt="GSoC-logo" height=300px width=600px>
+<img src="https://github.com/ABHAY0O7/GSoC-21-CASTOR/blob/main/utils/Images/header-image.png" alt="GSoC-logo" height=250px width=600px>
 </div>
 
 ## General Information 📝
