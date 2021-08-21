@@ -119,7 +119,7 @@ completed this program. :wink: I am ending this report via an image that I creat
 
 <p align="center">
   <img src="https://github.com/ABHAY0O7/GSoC-21-CASTOR/blob/main/utils/Images/creation.jpg" alt="Summer-creation"/><br>
-  During this summer I thought that I am one of the character of this famous cartoon who is working on some cool
-  things with his friends. I will never forget this period of my life.:wink:<br>
+  <h5 align = "center">During this summer I thought that I am one of the character of this famous cartoon who is working on some cool
+  things with his friends. I will never forget this period of my life.:wink:<br></h5>
   <h2 align = "center"> Thanks for your precious time. 👋</h2>
 
