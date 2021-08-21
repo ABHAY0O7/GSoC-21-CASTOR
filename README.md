@@ -4,7 +4,7 @@
 </div>
 
 ## General Information 📝
-<b>Organization:</b> [CASTOR](https://github.com/castor-software) <br>
+<b>Organization:</b> [CASTOR](https://www.castor.kth.se/) <br>
 <b>Project:</b> [DEPCLEAN](https://github.com/castor-software/depclean) <br>
 <b>Tasks:</b> 
 1. Implementation of a depclean-gradle-plugin like depclean-maven-plugin.
@@ -17,9 +17,12 @@
 <b>My proposal: </b> [Click here](https://docs.google.com/document/d/1WG1kZ5bHKFLf2PCKPQdWQn2VSGbvdQBJ6eixddJMmNs/edit)
 
 ## Abstract :scroll: 
-Project depclean is a tool to automatically remove dependencies that are included in the dependency tree of java
-projects but are not used in the code. It detects and removes all the unused dependencies declared in the pom.xml file
-of the project or imported from its parent pom.xml. This tool can only be used in maven-based java project only.
+This summer, I was selected for GSoC to work on project DepClean for [CASTOR organization](https://github.com/castor-software).
+CASTOR is a research software center at [KTH Royal institiute](https://www.kth.se/en) :classical_building: . It performs lots of cool stuffs like
+developing software tools, perform excellent research, train world class Graduates and a lot more. One of the best software tool
+which is provided by CASTOR is depclean. It is a tool to automatically remove dependencies that are included in the dependency
+tree of java projects but are not used in the code. It detects and removes all the unused dependencies declared in the pom.xml
+file of the project or imported from its parent pom.xml. This tool can only be used in maven-based java project only.
 For more information [visit here](https://github.com/castor-software/depclean#readme)
 
 ## Goals :dart: 
@@ -117,5 +120,6 @@ completed this program. :wink: I am ending this report via an image that I creat
 <p align="center">
   <img src="https://github.com/ABHAY0O7/GSoC-21-CASTOR/blob/main/utils/Images/creation.jpg" alt="Summer-creation"/><br>
   During this summer I thought that I am one of the character of this famous cartoon who is working on some cool
-  things with his friends. I will never forget this period of my life.:wink:<br> 
-  <h2 align = "center"> PS: Thanks for your precious time. 👋</h2>
+  things with his friends. I will never forget this period of my life.:wink:<br>
+  <h2 align = "center"> Thanks for your precious time. 👋</h2>
+
