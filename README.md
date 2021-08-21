@@ -115,7 +115,7 @@ I would also like to thank my family and my friends who constantly supported and
 Special thanks to [Mitul varshney](https://github.com/Mitul16) for helping me out during my tough times of debugging. :heart: 
 
 In the end, I would like to thank Google for organizing such a wonderful program and also kudos to me who successfully
-completed this program. :wink: I am ending this report via an image that I created on my own, and it describes my feelings of this summer. <br>
+completed this program. :wink: I am ending this report with an image, which precisely describes my feelings of this summer. <br>
 
 <p align="center">
   <img src="https://github.com/ABHAY0O7/GSoC-21-CASTOR/blob/main/utils/Images/creation.jpg" alt="Summer-creation"/><br>
